@@ -1,0 +1,15 @@
+1.  Jelaskan arti angka dari versi python di bawah ini.
+    Python 3.10.0 artinya adalah aplikasi Python dengan versi ke 3 dan revisi ke 10
+
+2.  Buatlah tutorial setiap fugsi pada tools vs-code
+    1.  Basic Editing, ya sesuai dengan fungsi utama dari VSC yaitu untuk coding
+    2.  Intellisense adalah fitur dalam VSC yang bisa memudahkan proses coding, fungsinya mirip dengan fungsi Auto Complete
+    3.  Debugging, fitur ini sangat berguna untuk memudahkan dalam mengedit, compile, looping dsb.
+    4.  Extension Marketplace, Extension Marketplace adalah fitur yang membuat Visual Code Studio unggul jauh dari para pesaingnya.
+        Dengan Extension, Anda bisa dengan mudah menginstall tools, debuggers, bahkan bahasa pemrograman tambahan.
+    5.  Github Integration, sesuai dengan namanya, fitur ini dapat menghubungkan library pada github tanpa keluar dari software
+
+3.  Sebutkan dan jelaskan ekstension itu apa, dan contohnya dan penerapannya (didalam vs code)
+    fitur yang membuat Visual Code Studio unggul jauh dari para pesaingnya.
+    Dengan Extension, Anda bisa dengan mudah menginstall tools, debuggers, 
+    bahkan bahasa pemrograman tambahan.
